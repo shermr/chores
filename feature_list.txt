@@ -1,0 +1,10 @@
+Planned Features:
+  Specify task ownership, allowing shared or rotating ownership
+  wide variety of repeating options
+  wide variety of alert options
+
+Bonus Features:
+  Google calendar integrations
+  Home automation integrations
+  IFTTT hooks
+  excuse options
